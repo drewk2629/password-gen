@@ -1,4 +1,4 @@
-# Password Generator Starter Code!
+# Password Generator
 DEPLOYED HERE https://drewk2629.github.io/password-gen/
 
 This is a randomized password generator created in javascript. Users are guided through creating a random password with window prompts and alerts.

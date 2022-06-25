@@ -3,7 +3,8 @@
 https://drewk2629.github.io/password-gen/
 
 ## About the Project
-This is a randomized password generator created in javascript. Users are guided through creating a random password with window prompts and alerts.
+This is a randomized password generator created in JavaScript. Users are guided through creating a random password with window prompts and alerts.
+
 Users must follow guidelines instructed on prompts or else they cannot proceed.
 
 ## Demo
